@@ -2,12 +2,11 @@
 
 Version: 0.5, Last updated: 1/29/2011
 
-jQuery BBPS provides for AJAX loading of pages using the recommended Google standard (#!) or using the history.pushState to emulate full page loads.
+jQuery BBPS provides for AJAX loading of pages #! or using the history.pushState to emulate full page loads. This does not follow the Google standard http://code.google.com/web/ajaxcrawling/docs/specification.html
 
 ## Support and Testing ##
 Information about what version or versions of jQuery this plugin has been
-tested with, what browsers it has been tested in, and where the unit tests
-reside (so you can test it yourself).
+tested with, what browsers it has been tested in.
 
 ### jQuery Versions ###
 1.4.1, 1.4.2, 1.4.3
